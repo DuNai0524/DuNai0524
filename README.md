@@ -1,8 +1,6 @@
 
 <div align='center'>
 
-# Hi there 👋 I'm DuNai0524
-
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/14151546) [![Leetcode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.cn/u/dunai0524/)
 
 **college student from @JSU**
