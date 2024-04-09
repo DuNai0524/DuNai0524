@@ -12,7 +12,7 @@
 ## About me
 
 - Sometime upload some projects to github
-- Visit my website:[DuNai0524的秘密基地](https://blog.dunai0524.top)
+- Visit my website:[DuNai0524的秘密基地](https://blog.dunai0524.top) and [DuNai's tech world](https://tech.dunai0524.top)
 - How to contact me:[ovrjun@outlook.com](ovrjun@outlook.com)
 
 ## Github Stats
