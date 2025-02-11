@@ -14,7 +14,7 @@
 ## About me
 
 - Sometime upload some projects to github
-- Visit my website:[DuNai0524的秘密基地](https://blog.dunai0524.top) and [DuNai's tech world](https://tech.dunai0524.top)
+- Visit my website:[DuNai0524的秘密基地](https://blog.dunai0524.top)
 - How to contact me:[ovrjun@outlook.com](ovrjun@outlook.com)
 
 ## Github Stats
@@ -39,7 +39,3 @@
 ### Backend techonologies
 
 ![My Skills](https://skillicons.dev/icons?i=spring,mysql,sqlite,redis,rabbitmq,fastapi&theme=light)
-
-## Something else
-
-![osu!](https://osu-sig.vercel.app/card?user=DuNai0524&mode=mania&lang=en&animation=true)
