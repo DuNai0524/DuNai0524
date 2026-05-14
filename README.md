@@ -17,8 +17,8 @@
 
 ## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DuNai0524&show_icons=true&theme=transparent)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=DuNai0524&range=last_7_days&theme=dark&hide_border=true&layout=compact&custom_title=This%20week%20I%20spent%20my%20time%20on)
+![GitHub stats](./profile/stats.svg)
+![WakaTime](./profile/wakatime.svg)
 
 ## Using Technologies
 
