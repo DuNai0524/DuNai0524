@@ -5,7 +5,7 @@
 
 **Graduate students from @SCAU**
 
-**major in Computer Technology**
+**Intrested in Agent and LLM**
 
 </div>
 
